@@ -42,9 +42,7 @@
 
 ###
 
+![snake gif](https://github.com/jihanbakshi7/jihanbakshi7/blob/output/github-snake.svg)
 ![snake gif](https://github.com/jihanbakshi7/jihanbakshi7/blob/output/github-snake-dark.svg)
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jihanbakshi7/jihanbakshi7/output/snake.svg" alt="Snake animation" />
 
 ###
